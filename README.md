@@ -35,7 +35,7 @@ Heyy! 🌸 This is a fully functional and responsive **TODO App** built with a m
 
 ### 🧁 How to Run the Project
 
-> You’ll need **Node.js**, **Docker**, and **PostgreSQL** installed 🐳📦
+> You’ll need **Docker** installed 🐳📦
 
 
 ### 🐻 Clone this Project
