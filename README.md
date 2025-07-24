@@ -1,8 +1,6 @@
 <h1 align="center">🧸✨ Full Stack TODO App 🌼</h1>
 
-Heyy! 🌸 This is a fully functional and responsive **TODO App** built with a modern full-stack tech combo 🦋💻  
-It allows users to manage their daily tasks with **CRUD functionalities** and **secure authentication** 🔐🧁  
-Perfect for productivity and learning full-stack development with real-world structure! 🎯🌷
+Heyy! 🌸 This is a fully functional and responsive **TODO App** built with a modern full-stack tech combo. It allows users to manage their daily tasks with **CRUD functionalities** and **secure authentication** .  Perfect for productivity and learning full-stack development with real-world structure! 🎯🌷
 
 
 
